@@ -24,13 +24,13 @@ footer ul li {
     align-items: center;
 }
 footer ul {
-    background-color: gray;
+    background-color: red;
 }
 header ul {
-    background-color: gray;
+    background-color: green;
 }
 li:hover {
-    background-color: red;
+    background-color: blue;
 }
 ul {
     display: flex;
