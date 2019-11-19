@@ -1,2 +1,9 @@
-
+header{
+background-color: red;
+display: flex;
+}
+footer{
+background-color: royalblue;
+display: flex;
+}
 
