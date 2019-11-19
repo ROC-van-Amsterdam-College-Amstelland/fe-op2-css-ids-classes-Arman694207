@@ -49,8 +49,8 @@ h1{
 Ook Selectors hebben specificiteit. Weet je nog, de Selector in een CSS regel geeft aan op welk HTML element de styles moeten worden toegepast. Zie plaatje hieronder voor een korte opfrissing.
 
 ![CSS Selectors](img/readme-css-declaration.jpg)
-
-De Selector kan natuurlijk ook een ID of Class zijn. Hierboven wordt h1 gebruikt als selector, dit noem je een Element Selector want hij slaat direct op een HTML element. De volgorde waarin de CSS styles worden toegepast van heel algemeen naar steeds specifieker is als volgt:
+De Selector kan natuurlijk ook een ID of Class zijn. Hierboven wordt h1 gebruikt a
+ls selector, dit noem je een Element Selector want hij slaat direct op een HTML element. De volgorde waarin de CSS styles worden toegepast van heel algemeen naar steeds specifieker is als volgt:
 
 1. Element Selectors (h1, p, div, header, etc)
     - Slaat op alle elementen van een bepaald type in het hele document.
@@ -79,10 +79,10 @@ Maak voor onderstaande taken telkens per taak één CSS regel aan met dus één 
 
 
 - [x] Als je een van de onderstaande taken hebt afgerond zet dan in README.md een 'x' tussen de [ ]. In je repository wordt dan bij de opdracht de taak afgevinkt.
-- [ ] 1. Geef de header, main en footer een width van 100%
-- [ ] 2. Geef de header en footer een height van 20%
-- [ ] 3. Geef de main een height van 80% en een achtergrondkleur naar keuze
-- [ ] 4. Pas de header, footer CSS regel aan, voeg een achtergrondkleur naar keuze toe
+- [x] 1. Geef de header, main en footer een width van 100%
+- [x] 2. Geef de header en footer een height van 20%
+- [x] 3. Geef de main een height van 80% en een achtergrondkleur naar keuze
+- [x] 4. Pas de header, footer CSS regel aan, voeg een achtergrondkleur naar keuze toe
 - [ ] 5. Geef alleen het logo in de header een margin van 20px
 - [ ] 6. Geef alleen het logo in de main een width van 400px
 - [ ] 7. Geef alleen het logo in de footer een border van 1px solid black

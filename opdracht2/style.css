@@ -15,10 +15,19 @@ img{
 /* Vul hieronder je eigen code */
 header{
     background-color: red;
+    width: 100%;
+    height: 20%;
 }
 
 main{
     background-color: blue;
+    width: 100%;
+    height: 80%;
+}
+footer{
+    background-color: purple;
+    width: 100%;
+    height: 20%;
 }
 h1{
     font-size: 80px;
