@@ -60,6 +60,12 @@ footer img {
 div h3{
     font-size: 50px;
 }
+ul h3{
+    border: 1px dashed black;
+}
+h3{
+    font-family: monospace;
+}
 
 
 
