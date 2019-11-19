@@ -13,3 +13,19 @@ img{
 }
 /* Einde aangeleverde code, laten staan, niet veranderen */
 /* Vul hieronder je eigen code */
+header{
+    background-color: red;
+}
+
+main{
+    background-color: blue;
+}
+h1{
+    font-size: 80px;
+}
+
+
+h1{
+    font-size: 50px;
+}
+
