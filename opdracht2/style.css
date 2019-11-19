@@ -66,6 +66,9 @@ ul h3{
 h3{
     font-family: monospace;
 }
-
+img ul{
+    background-color: #2f2f2f;
+    list-style: circle;
+}
 
 
